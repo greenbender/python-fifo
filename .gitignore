@@ -1,0 +1,6 @@
+*.pyc
+.*.sw[pq]
+build/
+dist/
+fifo.egg-info/
+
