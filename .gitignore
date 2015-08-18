@@ -2,5 +2,4 @@
 .*.sw[pq]
 build/
 dist/
-fifo.egg-info/
-
+pyfifo.egg-info/
