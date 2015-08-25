@@ -1,5 +1,5 @@
 *.pyc
-.*.sw[pq]
+.*.sw?
 build/
 dist/
 pyfifo.egg-info/
